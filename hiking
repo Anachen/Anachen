@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/CSS/bootstrap.min.css" rel="stylesheet">
+    <link href="/CSS/all.min.css" rel="stylesheet">
+    <link href="/CSS/main.css" rel="stylesheet">
+    <script src="/JS/bootstrap.js"></script>
+    <script src="/JS/all.min.js"></script>
+    <script src="/JS/main.js"></script>
+    <title>MeZoLife</title>
+  </head>
+  <body>
+    <header class="d-flex justify-content-center py-3">
+      <ul class="nav nav-pills">
+        <li class="nav-item"><a href="/" class="nav-link">Kezdőlap</a></li>
+        <li class="nav-item"><a href="/running" class="nav-link">Futás</a></li>
+        <li class="nav-item"><a href="/hiking" class="nav-link active">Túra</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Írások</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Rólam</a></li>
+      </ul>
+    </header>
+    
+    
+   Hike
+    
+    
+    
+  </body>
+</html>
