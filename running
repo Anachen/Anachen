@@ -1,4 +1,3 @@
-nes (89 sloc)  3.46 KB
 <!doctype html>
 <html lang="en">
   <head>
@@ -15,8 +14,8 @@ nes (89 sloc)  3.46 KB
   <body>
     <header class="d-flex justify-content-center py-3">
       <ul class="nav nav-pills">
-        <li class="nav-item"><a href="/" class="nav-link active">Kezdőlap</a></li>
-        <li class="nav-item"><a href="/running" class="nav-link">Futás</a></li>
+        <li class="nav-item"><a href="/" class="nav-link">Kezdőlap</a></li>
+        <li class="nav-item"><a href="/running" class="nav-link active">Futás</a></li>
         <li class="nav-item"><a href="#" class="nav-link">Túra</a></li>
         <li class="nav-item"><a href="#" class="nav-link">Írások</a></li>
         <li class="nav-item"><a href="#" class="nav-link">Rólam</a></li>
