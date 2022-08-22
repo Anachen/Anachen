@@ -14,7 +14,7 @@
   <body>
     <header class="d-flex justify-content-center py-3">
       <ul class="nav nav-pills">
-        <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Kezdőlap</a></li>
+        <li class="nav-item"><a href="#" class="nav-link" aria-current="page">Kezdőlap</a></li>
         <li class="nav-item"><a href="#" class="nav-link">Futás</a></li>
         <li class="nav-item"><a href="#" class="nav-link">Túra</a></li>
         <li class="nav-item"><a href="#" class="nav-link">Írások</a></li>
@@ -22,7 +22,9 @@
       </ul>
     </header>
     
+    {% block content %}
+    {% endblock content %}
+
     
-    <h1>TESZT</h1>
   </body>
 </html>
